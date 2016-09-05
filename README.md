@@ -1,5 +1,4 @@
 ## Read me!
-------
 
 Following points are to be noted for the execution of this program (built with Visual C++ in Visual Studio 2012) - 
 
